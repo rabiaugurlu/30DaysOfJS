@@ -11,7 +11,7 @@
    | DAY | TOPICS | SITUATION |
    | :---         |     :---:      |          ---: |
    | Day 1 / 22 March  | [What is JS?](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JSIntro), [Variables](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Variables)    | Completed    |
-   | Day 2     |  [Operators](https://github.com/rabiaugurlu/30DaysOfJS),  [Data structures](https://github.com/rabiaugurlu/30DaysOfJS), [Arrays](https://github.com/rabiaugurlu/30DaysOfJS)      | next topic     |
+   | Day 2 / 23 March     |  [Operators](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Operators),  [Data structures](https://github.com/rabiaugurlu/30DaysOfJS), [Arrays](https://github.com/rabiaugurlu/30DaysOfJS)      | next topic     |
    | Day 3     | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS), [Loops](https://github.com/rabiaugurlu/30DaysOfJS), [Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
    | Day 4     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
    | Day 5     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
