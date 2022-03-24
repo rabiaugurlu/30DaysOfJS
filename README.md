@@ -12,7 +12,7 @@
    | :---         |     :---:      |          ---: |
    | Day 1 / 22 March  | [What is JS?](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JSIntro), [Variables](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Variables)    | Completed    |
    | Day 2 / 23 March     |  [Operators](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Operators),  [Data structures](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DataStructures)       | Completed      |
-   | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
+   | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
    | Day 4     | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS), [Loops](https://github.com/rabiaugurlu/30DaysOfJS), [Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
    | Day 5     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
    | Day 6     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
