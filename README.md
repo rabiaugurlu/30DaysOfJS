@@ -12,10 +12,10 @@
    | :---         |     :---:      |          ---: |
    | Day 1 / 22 March  | [What is JS?](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JSIntro), [Variables](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Variables)    | Completed    |
    | Day 2 / 23 March     |  [Operators](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Operators),  [Data structures](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DataStructures)       | Completed      |
-   | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 4     | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS), [Loops](https://github.com/rabiaugurlu/30DaysOfJS), [Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 5     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 6     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
+   | Day 4 / 25 March    | [JavaScript Fundamentals research has been done](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
+   | Day 5 / 26 March    | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS), [Loops](https://github.com/rabiaugurlu/30DaysOfJS), [Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 6     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
    | Day 7     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 8     | [Events](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 9     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS), [Slider app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
