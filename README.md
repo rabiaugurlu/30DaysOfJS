@@ -15,8 +15,8 @@
    | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
    | Day 4 / 25 March    | [JavaScript Fundamentals research has been done](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
    | Day 5 / 26 March    | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/ConditionStatements), [Loops](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Loops), [Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Functions)       | Completed       | 
-   | Day 6     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 7     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 6 / 27 March    | [DOM](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DOM)        | Completed      |
+   | Day 7 / 28 March    | [DOM](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DOM)       | Completed      |
    | Day 8     | [Events](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 9     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS), [Slider app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 10     | [Form validation](https://github.com/rabiaugurlu/30DaysOfJS), [Cinema-ticket reservation application](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
