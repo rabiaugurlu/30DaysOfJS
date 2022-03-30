@@ -15,30 +15,30 @@
    | Day 3 / 24 March    | [Arrays](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
    | Day 4 / 25 March    | [JavaScript Fundamentals research has been done](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Arrays)        | Completed    |
    | Day 5 / 26 March    | [Condition statements](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/ConditionStatements), [Loops](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Loops), [Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Functions)       | Completed       | 
-   | Day 6     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 7     | [DOM](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 8     | [Events](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 9     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS), [Slider app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 10     | [Form validation](https://github.com/rabiaugurlu/30DaysOfJS), [Cinema-ticket reservation application](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 11     | [Calculator app](https://github.com/rabiaugurlu/30DaysOfJS), [hangman game app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 12     | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 13     | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 14     | [Quiz app-OOP](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 15     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 16     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 17     | [Course app-ES6 class](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 18     | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 19     | [Profile search api project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 20     | [Restful Api&Restful Api app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 21     | [JS pattern](https://github.com/rabiaugurlu/30DaysOfJS)            |  next topic
-   | Day 22     | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 23     | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 24     | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 25     | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 26     | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 27     | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 28     | [Movie project - modern js project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 29     | [Movie project - modern js project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 6 / 27 March    | [DOM](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DOM)        | Completed      |
+   | Day 7 / 28 March    | [DOM](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DOM)       | Completed      |
+   | Day 8 / 29 March   | [Events](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 9 / 30 March   | [Events](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 10     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS), [Slider app](https://github.com/rabiaugurlu/30DaysOfJS) | next topic      |
+   | Day 11     | [Form validation](https://github.com/rabiaugurlu/30DaysOfJS)  | next topic      |
+   | Day 12     | [Cinema-ticket reservation application](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 13     | [Calculator app](https://github.com/rabiaugurlu/30DaysOfJS), [hangman game app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 14     | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
+   | Day 15     | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 16     | [Quiz app-OOP](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 17     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 18     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 19     | [Course app-ES6 class](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 20     | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 21     | [Profile search api project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 22     | [Restful Api&Restful Api app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 23     | [JS pattern](https://github.com/rabiaugurlu/30DaysOfJS)            |  next topic
+   | Day 24     | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 25     | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 26     | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 27     | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 28     | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 29     | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
    | Day 30     | [Typescript](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic     | 
   
    
