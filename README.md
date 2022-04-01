@@ -19,7 +19,7 @@
    | Day 7 / 28 March    | [DOM](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/DOM)       | Completed      |
    | Day 8 / 29 March   | [Events](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Events)       | Completed      |
    | Day 9 / 30 March   | [Events](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Events)       | Completed      |
-   | Day 10     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS), [Slider app](https://github.com/rabiaugurlu/30DaysOfJS) | next topic      |
+   | Day 10 / 31 March     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/To%20do%20app) | Completed      |
    | Day 11     | [Form validation](https://github.com/rabiaugurlu/30DaysOfJS)  | next topic      |
    | Day 12     | [Cinema-ticket reservation application](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 13     | [Calculator app](https://github.com/rabiaugurlu/30DaysOfJS), [hangman game app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
