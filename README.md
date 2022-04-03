@@ -22,7 +22,7 @@
    | Day 10 / 31 March     | [To do app](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/To%20do%20app) | Completed      |
    | Day 11 / 1 April   | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)  | Completed      |
    | Day 12 / 2 April    | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)       | Completed      |
-   | Day 13 / 3 April    | [Calculator app](https://github.com/rabiaugurlu/30DaysOfJS), [hangman game app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 13 / 3 April    | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)  | Completed      |
    | Day 14 / 4 April    | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
    | Day 15     | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 16     | [Quiz app-OOP](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
