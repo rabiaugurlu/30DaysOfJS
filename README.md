@@ -23,9 +23,9 @@
    | Day 11 / 1 April   | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)  | Completed      |
    | Day 12 / 2 April    | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)       | Completed      |
    | Day 13 / 3 April    | [Beginner Vanilla Javascript Project Tutorial](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Beginner%20Vanilla%20Javascript%20Project%20Tutorial)  | Completed      |
-   | Day 14 / 4 April    | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic     |
-   | Day 15     | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 16     | [Quiz app-OOP](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 14 / 4 April    | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | Completed     |
+   | Day 15 / 5 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 16 / 6 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 17     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 18     | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 19     | [Course app-ES6 class](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
