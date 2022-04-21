@@ -26,20 +26,18 @@
    | Day 14 / 4 April    | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | Completed     |
    | Day 15 / 5 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JS%20Object%26Functions)       | Completed      |
    | Day 16 / 6 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JS%20Object%26Functions)       | Completed      |
-   | Day 17 / 11 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 18 / 12 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 19 / 13 April    | [Course app-ES6 class](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 20 / 14 April    | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 21 / 15 April   | [Profile search api project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
-   | Day 22 / 16 April    | [Restful Api&Restful Api app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 23 / 17 April    | [JS pattern](https://github.com/rabiaugurlu/30DaysOfJS)            |  next topic
-   | Day 24 / 18 April    | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 25 / 19 April    | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 26 / 20 April    | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 27 / 21 April    | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 28 / 22 April    | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 29 / 23 April    | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
-   | Day 30 / 24 April    | [Typescript](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic     | 
+   | Day 17 / 21 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS), [Course app-ES6 class](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 18 / 14 April    | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 19 / 15 April   | [Profile search api project](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 20 / 16 April    | [Restful Api&Restful Api app](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 21 / 17 April    | [JS pattern](https://github.com/rabiaugurlu/30DaysOfJS)            |  next topic
+   | Day 22 / 18 April    | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 23 / 19 April    | [Oem calculator-module pattern](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 24 / 20 April    | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 25 / 21 April    | [Node js&Npm](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 26 / 22 April    | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 27 / 23 April    | [Webpack,babel&ES6 module](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      | 
+   | Day 28 / 24 April    | [Typescript](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic     | 
   
    
    
