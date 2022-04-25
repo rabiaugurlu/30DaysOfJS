@@ -26,8 +26,8 @@
    | Day 14 / 4 April    | [Repeat of previous days](https://github.com/rabiaugurlu/30DaysOfJS)        | Completed     |
    | Day 15 / 5 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JS%20Object%26Functions)       | Completed      |
    | Day 16 / 6 April    | [JS Object&Functions](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/JS%20Object%26Functions)       | Completed      |
-   | Day 17 / 21 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)    | next topic      |
-   | Day 18 / 22 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
+   | Day 17 / 21 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Modern%20JS%20ES6%26ES7%2B)    | Completed      |
+   | Day 18 / 22 April    | [Modern JS: ES6/ES7+](https://github.com/rabiaugurlu/30DaysOfJS/tree/main/Modern%20JS%20ES6%26ES7%2B)       | Completed      |
    | Day 19 / 23 April    | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 20 / 24 April    | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)       | next topic      |
    | Day 21 / 25 April   | [Asynchronous programming&AJAX](https://github.com/rabiaugurlu/30DaysOfJS)        | next topic      |
